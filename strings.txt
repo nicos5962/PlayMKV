@@ -1,0 +1,10 @@
+# String file for PlayMKV plugin
+
+PLUGIN_PLAYMKV
+	EN	Play MKV
+
+PLUGIN_PLAYMKV_DESC
+	EN	Play the audio of Matroska files, with tags read by ffprobe like PlayAVI, the Discogs release id as album id and scanner-safe registration
+
+MKV
+	EN	Matroska video (.mkv, .mka, .mk3d)
